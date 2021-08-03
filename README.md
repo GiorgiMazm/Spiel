@@ -1,1 +1,1 @@
-# Speil
+# Spiel
